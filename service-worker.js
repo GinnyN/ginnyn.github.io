@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/groupon-test/precache-manifest.19db6989168a60b7eca1d01a7ad92ac8.js"
+  "/groupon-test/precache-manifest.2473b28b5570c402b1141c5c19879330.js"
 );
 
 self.addEventListener('message', (event) => {
